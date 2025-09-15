@@ -4,7 +4,7 @@
 ---
 
 <h1 align="center">
-  ⚡ Futuristic Data Scientist • Analyst • AI/ML Enthusiast ⚡
+  ⚡ Data Scientist • Data Analyst • AI/ML Enthusiast ⚡
 </h1>
 
 <p align="center">
@@ -15,10 +15,10 @@
 
 ## 👨‍🚀 About Me  
 
-🔹 I’m passionate about **Data Science & AI/ML**, solving problems with intelligence and creativity.  
+🔹 I’m passionate about **Data Analysis, Data Science & AI/ML**, solving complex problems with intelligence and creativity.  
 🔹 My expertise includes:  
-- 📊 **Data Analytics & BI** – Power BI, Excel, SQL, Python  
-- 🤖 **Machine Learning & AI** – NLP, Deep Learning, Predictive Models  
+- 📊 **Data Analytics & BI** – Power BI, Excel, SQL, Python, Tableau
+- 🤖 **Machine Learning & AI** – NLP, Machine Learning, Predictive Models, Neural Networks, GenAI
 - 🧠 **Applied Research** – Healthcare, Fraud Detection, Search Systems  
 
 🚀 Currently exploring **end-to-end ML pipelines** and **advanced analytics workflows**.  
@@ -71,15 +71,6 @@ An interactive **Power BI dashboard** uncovering fraudulent transaction behavior
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=algolia&no-frame=true&margin-w=15&row=1" />
 </p>
-
----
-
-## 🐍 Futuristic Contribution Graph  
-<p align="center">
-  <img src="https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake.svg" />
-</p>
-
----
 
 ## 🌐 Connect with Me  
 
