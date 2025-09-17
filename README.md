@@ -56,20 +56,20 @@
 
 ## 🚀 Featured Projects  
 
-🔮 **[AI-Powered Search Engine](https://github.com/yourusername/AI-Search-Engine)**  
+🔮 **[AI-Powered Search Engine](https://github.com/Aakaashpadhmanaban/AI-Powered-Search)**  
 Built with Flask — supports **text search (DuckDuckGo API)** & **image search** with a modern frontend.  
 
-💊 **[Healthcare Analysis – Medication Prediction](https://github.com/yourusername/Healthcare-Analysis-Medication-Prediction)**  
+💊 **[Healthcare Analysis – Medication Prediction](https://github.com/Aakaashpadhmanaban/Healthcare-Analysis-Medication-Prediction)**  
 Machine Learning models predicting **patient medication requirements** based on health records.  
 
-🕵️ **[Fraud Detection Dashboard](https://github.com/yourusername/Fraud-Detection-Dashboard)**  
+🕵️ **[Fraud Detection Dashboard](https://github.com/Aakaashpadhmanaban/FRAUD-DETECTION-DASHBOARD)**  
 An interactive **Power BI dashboard** uncovering fraudulent transaction behavior.  
 
 ---
 
 ## 🏅 GitHub Trophies  
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=algolia&no-frame=true&margin-w=15&row=1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Aakaashpadhmanaban&theme=algolia&no-frame=true&margin-w=15&row=1" />
 </p>
 
 ## 🌐 Connect with Me  
